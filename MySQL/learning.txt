@@ -1,6 +1,6 @@
 
 date - 06-06-24 
 
-Today I have learn and revise sql query, joins, subjoins, methods , root-commands and learn.
+Today I have learn and revise sql query, joins, primary key, methods ,function-ADD,AVG,COUNT, root-commands and CREATE,SHOW, DROP Database.
 
-source of learning - 
+source of learning - https://youtu.be/HMXl9RyoLUM?si=MyPLhHPXOGDph3Cs
