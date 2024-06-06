@@ -1,0 +1,7 @@
+Date : 06 June
+
+Today I have learning about plugins, create first Android App, Package Name,creating Virtual device, Run first app, Basic Attributes of view.
+
+
+source of learning - https://youtu.be/uEhmQd0Z1CA?si=IkTwEO0uDHJBV483
+
