@@ -1,3 +1,6 @@
 
+date - 06-06-24 
 
-anjali is pritty girl
+Today I have learn and revise sql query, joins, subjoins, methods , root-commands and learn.
+
+source of learning - 
