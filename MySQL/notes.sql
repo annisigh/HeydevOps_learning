@@ -8,6 +8,9 @@ use [db_name]
 create table [table_name](col1 colType(size) extra....);
 
 
+
+
+
 --show all tables
 show tables
 
